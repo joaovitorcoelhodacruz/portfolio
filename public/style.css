@@ -17,6 +17,7 @@ main{
     max-width: 400px;
     padding: 32px;
     letter-spacing: 1px;
+    border-radius: 11px;
 }
 a{
     color: #0066ff;
@@ -25,4 +26,7 @@ a{
 }
 div:not(:last-child){
     margin-bottom: 16px;
+}
+img{
+    border-radius: 11px;
 }
