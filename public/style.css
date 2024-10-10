@@ -18,6 +18,7 @@ main{
     padding: 32px;
     letter-spacing: 1px;
     border-radius: 11px;
+    border-bottom: #0066ff;
 }
 a{
     color: #0066ff;
